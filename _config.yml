@@ -1,0 +1,9 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Top GPT Prompt
+tagline: Best ChatGPT Prompts
+description: A comprehensive collection of the best GPT prompts for creative writing, brainstorming, and content generation. The website is designed to cater to writers, bloggers, marketers, and anyone else who needs help coming up with fresh and innovative ideas.
+
+# Google Analytics
+#ga_tracking_id: G-85CSDFN0Y5
