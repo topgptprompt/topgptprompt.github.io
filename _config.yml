@@ -2,7 +2,7 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Top GPT Prompt
-description: A comprehensive collection of the best GPT prompts for creative writing, brainstorming, and content generation. Designed to cater to writers, bloggers, marketers, and anyone else who needs help coming up with fresh and innovative ideas.
+description: A comprehensive collection of the best ChatGPT prompts for creative writing, brainstorming, and content generation. Designed to cater to writers, bloggers, marketers, and anyone else who needs help coming up with fresh and innovative ideas.
 
 show_downloads: true
 
