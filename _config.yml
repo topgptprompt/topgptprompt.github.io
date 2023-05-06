@@ -4,5 +4,7 @@ plugins:
 title: Top GPT Prompt
 description: A comprehensive collection of the best GPT prompts for creative writing, brainstorming, and content generation. Designed to cater to writers, bloggers, marketers, and anyone else who needs help coming up with fresh and innovative ideas.
 
+show_downloads: true
+
 # Google Analytics
 #ga_tracking_id: G-85CSDFN0Y5
